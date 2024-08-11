@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋Hi, I'm Zakaria!
 👨‍💻 I'm a Software Developer and Industrial Engineer specialized in Industry 4.0 and Digital Technologies. 🚀 I’m passionate about leveraging technology to drive innovation in the industrial sector, focusing on IoT 🌐, AI 🤖, and data-driven solutions 📊.
 
 
