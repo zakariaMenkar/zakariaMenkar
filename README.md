@@ -1,6 +1,8 @@
 # 👋Hi, I'm Zakaria!
 👨‍💻 I'm a Software Developer and Industrial Engineer specialized in Industry 4.0 and Digital Technologies. 🚀 I’m passionate about leveraging technology to drive innovation in the industrial sector, focusing on IoT 🌐, AI 🤖, and data-driven solutions 📊.
 
+## 📬 Contact Me:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakaria.menkar@uit.ac.ma)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-menkar-955367230) 
